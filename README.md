@@ -22,7 +22,7 @@ WordPress は、世界中の様々なウェブサイトで幅広く活用され�
 安全な環境として、**WindowsとMacintoshにインストールすることのできる「MAMP」**を推奨します。
 
 ##MAMPのインストールについて
-*<https://info.cseas.kyoto-u.ac.jp/links-ja/manuals> の「MAMP のインストール方法」（開発系ツールの利用方法） 
+* <https://info.cseas.kyoto-u.ac.jp/links-ja/manuals> の「MAMP のインストール方法」（開発系ツールの利用方法） 
 
 のマニュアルを参考にインストールしてみてください。
 MAMPの動作環境は、Windows 7以降、MacOS 10.6.8以降です。
